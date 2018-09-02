@@ -2,7 +2,7 @@
 #ifndef _PCAL6416A_H_
 #define _PCAL6416A_H_
 
-//#define COMPILE
+#define COMPILE
 
 #define I2C_ADDR_PCAL6416 0x40	// Hardware address package pin is LOW 
 
